@@ -1,0 +1,31 @@
+.profile {
+    display: inline-block;
+}
+
+.profile_img {
+    width: 200px;
+    border-radius: 10%;
+}
+
+.introduction {
+    display: inline-block;
+}
+
+.proj1,
+.proj2,
+.proj3 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+}
+
+.link {
+    text-align: center;
+}
+
+.lacket_img,
+.book_img,
+.editor_img {
+    width: 300px;
+}
